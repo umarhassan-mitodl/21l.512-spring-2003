@@ -37,4 +37,4 @@ Plagiarism attacks the freedom and integrity of thought. Especially in a class t
 
 > Plagiarism — use of another's intellectual work without acknowledgement — is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work.
 
-MIT's academic honesty policy can be found at the [MIT Policies & Procedures](http://web.mit.edu/policies/10/index.html) web site.
+MIT's academic honesty policy can be found at the {{% resource_link "122287cc-7632-465b-862b-b7936e1c1a6b" "MIT Policies & Procedures" %}} web site.
